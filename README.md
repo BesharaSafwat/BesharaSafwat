@@ -2,7 +2,7 @@
 <h3> 📫 How to reach me: <a href = "mailto: beshara.s.awad@gmail.com"> beshara.s.awad@gmail.com</a> </h3>
 <h3> Or via <a href="https://www.linkedin.com/in/beshara-awad-041723214/"> LinkedIn 
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> </a> &nbsp;</h3>
-<h3> My Resume: <a href= "https://drive.google.com/file/d/1IUCyAtcah9mu0ZFvWMOu6iJBl-XNVhdW/view?usp=sharing">Beshara Awad Resume</h3>
+<h3> My Resume: <a href= "https://drive.google.com/file/d/1hQlcU8UZNFnvXbLd_ztEs6YzkNosZ5co/view?usp=sharing">Beshara Awad Resume</h3>
 - 🔭 I’m currently working on my Graduation Project which is a Mobile and Web Application for Mental Health Support for end users, Psychiatrist Follow-up with the patient between the sessions.
 <h4>Languages and Technologies :</h4>
 <ul>
