@@ -1,9 +1,10 @@
 <h2> Hi there 👋 I'm Beshara Awad </h2>
+<h3> Software Testing Engineer ISTQB </h3>
 <h3> 📫 How to reach me: <a href = "mailto: beshara.s.awad@gmail.com"> beshara.s.awad@gmail.com</a> </h3>
 <h3> Or via <a href="https://www.linkedin.com/in/beshara-awad-041723214/"> LinkedIn 
 <!--     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> </a> &nbsp;</h3> -->
 <h3> My Resume: <a href= "https://drive.google.com/file/d/1hQlcU8UZNFnvXbLd_ztEs6YzkNosZ5co/view?usp=sharing">Beshara Awad Resume</h3>
-- 🔭 I’m a Fresh Graduate of Systems and Biomedical Engingeering and a Software Engineering Enthusiast with great passion for software testing.
+- 🔭 I’m a Graduate of Systems and Biomedical Engingeering and a Software Engineering Enthusiast with great passion for Software Testing.
 <h4>Languages and Technologies :</h4>
 <ul>
 <li> Java </li> 
