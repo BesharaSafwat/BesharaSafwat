@@ -3,11 +3,18 @@
 <h3> 📫 How to reach me: <a href = "mailto: beshara.s.awad@gmail.com"> beshara.s.awad@gmail.com</a> </h3>
 <h3> Or via <a href="https://www.linkedin.com/in/beshara-awad-041723214/"> LinkedIn 
 <!--     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> </a> &nbsp;</h3> -->
-<h3> My Resume: <a href= "https://drive.google.com/file/d/1hQlcU8UZNFnvXbLd_ztEs6YzkNosZ5co/view?usp=sharing">Beshara Awad Resume</h3>
-- 🔭 I’m a Graduate of Systems and Biomedical Engingeering and a Software Engineering Enthusiast with great passion for Software Testing.
-<h4>Languages and Technologies :</h4>
+<h3> My Resume: <a href= "https://drive.google.com/file/d/1owgeqPhph8ysTiUzgBbfCfWpgXMqdTx_/view?usp=sharing">Beshara Awad Resume</h3>
+- 🔭 Junior Software Tester, graduate of Systems and Biomedical Engineering, with a background in Software Development, Manual Testing, Bug Reporting and Tracking, Test Automation Basics using Selenium WebDriver, API Testing, Automated API Testing. Skilled in Problem solving, Analysis, and ensuring Software Quality. Eager to support testing projects while continuing to learn, grow and develop skills.
+<h4>Languages and Technologies  :</h4>
 <ul>
 <li> Java </li> 
+<li> Selenium </li> 
+<li> Maven </li> 
+<li> Postman </li> 
+<li> REST Assured </li>
+<li> SQL </li> 
+<li> Jira </li> 
+
 <li> Dart </li> 
 <li> Flutter </li>
 <li> JavaScript </li>
